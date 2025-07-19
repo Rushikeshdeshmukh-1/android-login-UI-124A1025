@@ -81,5 +81,10 @@ sdk.dir=/path/to/your/Android/sdk
 ```
 
 ---
+## Demo
+<img width="350" height="800" alt="Screenshot_20250719_124556" src="https://github.com/user-attachments/assets/149459f0-73f6-4916-ac33-62c9a4bfd65e" />
+
+---
+
 
 
